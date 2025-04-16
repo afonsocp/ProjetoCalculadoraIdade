@@ -1,0 +1,14 @@
+C:\Users\Afonso\Desktop\CalculadoraIdade\bin\Debug\net6.0\CalculadoraIdade.exe
+C:\Users\Afonso\Desktop\CalculadoraIdade\bin\Debug\net6.0\CalculadoraIdade.deps.json
+C:\Users\Afonso\Desktop\CalculadoraIdade\bin\Debug\net6.0\CalculadoraIdade.runtimeconfig.json
+C:\Users\Afonso\Desktop\CalculadoraIdade\bin\Debug\net6.0\CalculadoraIdade.dll
+C:\Users\Afonso\Desktop\CalculadoraIdade\bin\Debug\net6.0\CalculadoraIdade.pdb
+C:\Users\Afonso\Desktop\CalculadoraIdade\obj\Debug\net6.0\CalculadoraIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afonso\Desktop\CalculadoraIdade\obj\Debug\net6.0\CalculadoraIdade.AssemblyInfoInputs.cache
+C:\Users\Afonso\Desktop\CalculadoraIdade\obj\Debug\net6.0\CalculadoraIdade.AssemblyInfo.cs
+C:\Users\Afonso\Desktop\CalculadoraIdade\obj\Debug\net6.0\CalculadoraIdade.csproj.CoreCompileInputs.cache
+C:\Users\Afonso\Desktop\CalculadoraIdade\obj\Debug\net6.0\CalculadoraIdade.dll
+C:\Users\Afonso\Desktop\CalculadoraIdade\obj\Debug\net6.0\refint\CalculadoraIdade.dll
+C:\Users\Afonso\Desktop\CalculadoraIdade\obj\Debug\net6.0\CalculadoraIdade.pdb
+C:\Users\Afonso\Desktop\CalculadoraIdade\obj\Debug\net6.0\CalculadoraIdade.genruntimeconfig.cache
+C:\Users\Afonso\Desktop\CalculadoraIdade\obj\Debug\net6.0\ref\CalculadoraIdade.dll
