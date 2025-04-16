@@ -32,3 +32,7 @@ Este projeto é uma calculadora de idade desenvolvida em C# que roda no console.
 - C# .NET
 - Console Application
 - Visual Studio
+
+### Repositórios GitHub
+- Calculadora: https://github.com/afonsocp/ProjetoCalculadora
+- Calculadora Idade: https://github.com/afonsocp/ProjetoCalculadoraIdade
